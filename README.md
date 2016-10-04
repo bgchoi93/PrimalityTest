@@ -60,7 +60,7 @@ It can be mathematically proven.
 Test is written but it takes too much time to test for all the numbers < 1,000,000,000
 
 Running Performance Test:
->>> measurePerformance(50000)
+measurePerformance(50000)
 Naive Method: 0:00:11.088528
 Heuristic Method: 0:00:02.473345
 My Algorithm takes 22.31 % of time compared to the naive method with 50000 tests.
